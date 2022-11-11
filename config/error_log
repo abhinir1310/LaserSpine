@@ -1,0 +1,4 @@
+[10-Aug-2021 00:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/u218248846/domains/laserclinicpatna.com/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/u218248846/domains/laserclinicpatna.com/public_html/config/services.php on line 18
