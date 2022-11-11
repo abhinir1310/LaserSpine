@@ -1,0 +1,16 @@
+[18-Jul-2021 06:57:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/app/Http/Controllers/DrugController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/app/Http/Controllers/DrugController.php on line 8
+[18-Jul-2021 06:57:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/app/Http/Controllers/AppointmentController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/app/Http/Controllers/AppointmentController.php on line 11
+[18-Jul-2021 06:57:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/app/Http/Controllers/AppointmentController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/app/Http/Controllers/AppointmentController.php on line 11
+[18-Jul-2021 06:57:59 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/app/Http/Controllers/TestController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/app/Http/Controllers/TestController.php on line 10
