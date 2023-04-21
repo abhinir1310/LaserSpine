@@ -1,0 +1,12 @@
+[18-Jul-2021 12:27:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/routes/api.php on line 17
+[18-Jul-2021 12:27:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/routes/api.php on line 17
+[18-Jul-2021 12:27:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u218248846/domains/onestopneeds.com/public_html/sanjivani/routes/api.php on line 17

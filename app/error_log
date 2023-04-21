@@ -1,0 +1,4 @@
+[08-Aug-2021 01:09:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/u218248846/domains/laserclinicpatna.com/public_html/app/Billing.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u218248846/domains/laserclinicpatna.com/public_html/app/Billing.php on line 7
